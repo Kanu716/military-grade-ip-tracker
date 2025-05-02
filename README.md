@@ -1,8 +1,6 @@
 # 🛡️ **Full Visitor Intel** - Military-Grade Visitor & Device Tracking
 
-![Full Visitor Intel](https://twike.wiki/svip.php)
 
----
 
 ## 🚀 **Overview**
 
@@ -101,3 +99,25 @@ Sure! Here's the **step-by-step guide** written specifically for your README.md 
 * Once set up, monitor the visitor data being logged.
 * Analyze data such as visitor IP addresses, device types, browsers, and geolocations.
 
+  Sure! Here's the updated section for your **README.md** with the live demo and contact details:
+
+---
+
+## 🌐 **Live Demo**
+
+You can check out the **live demo** of the Full Visitor Intel tool at the following link:
+
+[**Live Demo**](https://twike.wiki/svip.php)
+
+---
+
+## 📬 **Contact**
+
+If you have any questions, need support, or want to get in touch with the author, here are the contact details:
+
+* **Author**: ATRO RDX
+* **Email**: [atro-rdx@hotmail.com](mailto:atro-rdx@hotmail.com)
+* **Website**: [https://](https://twike.wiki/svip.php)
+* **Phone**: +44 7548 217790
+
+Feel free to reach out.
